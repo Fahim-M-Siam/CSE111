@@ -1,9 +1,9 @@
 # CSE111: Programming Language II (Python)
 
 # Details
-Solutions for the BRAC University Computer Science and Engineering Course - CSE111 Lab Assignments (Summer - 2021). See the .ipynb files to get all the solutions of an assignment in a single file.
+This repository contains solutions for the BRAC University Computer Science and Engineering course CSE111 Lab Assignments for the Summer 2021 semester. The solutions are implemented using Python 3.9 and cover various topics including String, List, Dictionary, Tuple, Functions, Object-Oriented Programming (OOP) concepts such as Inheritance, Method Overloading, Constructor Overloading, Operator Overloading, Encapsulation, Static/Class Variables and Methods, and Variable and Method Overriding.
 
-All the solutions are written with Python 3.9
+Each lab assignment corresponds to a specific week of the course outline, starting from basic data structures and progressing to more advanced concepts like inheritance and abstraction. The solutions provided in the .ipynb files offer comprehensive examples and implementations for each assignment, serving as a valuable resource for students studying Python programming in the context of Computer Science and Engineering.
 
 # Course Outline
 # Week 1 & Week 2: String, List, Dictionary & Tuple
